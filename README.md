@@ -1,2 +1,2 @@
 # nginx.conf
-conf of nginx with node
+config of nginx to deal req with node and static resource with itself
